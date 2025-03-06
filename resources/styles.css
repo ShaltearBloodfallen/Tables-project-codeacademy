@@ -1,0 +1,49 @@
+/*Set the background color and default margin for the body*/
+body{
+    background-color: aliceblue;
+    display: block;
+    margin: 8px;
+}
+
+#css-guide{
+   
+    background-color: ghostwhite;
+    display: inline-block;
+    margin: 20px; 
+    color: black;
+    position: relative;
+    left: 30%;
+    border-radius: 5px;
+    
+}
+body header h1{
+    color: green;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: green;
+    
+}
+table{
+    width: 700px;
+    border: 2px solid rgb(150, 28, 150);
+    margin: 0px 20px;
+    background-color: azure;
+}
+th{
+    background-color: palevioletred;
+    
+}
+td{
+    width: 20px;
+    border-bottom: 1px solid rgb(150, 28, 150);
+    
+}
+.code{
+    font-family: monospace  ;
+    background-color: whitesmoke;
+}
+.name{
+    font-weight: bold;
+}
